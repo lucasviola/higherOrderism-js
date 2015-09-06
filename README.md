@@ -1,7 +1,7 @@
 ## What is this about?
 
 Here you will find some examples of Higher-Order functions in
-plain Javascript.
+Javascript.
 
 ## Why?
 
