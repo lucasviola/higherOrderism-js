@@ -12,8 +12,8 @@ this repository may be useful for others.
 ## But what the heck is a "Higher-Order" function
 
 Basicly a Higher-Order function is a function that:
-1. Receives a function
-2. Returns a function
+* Receives a function
+* Returns a function
 
 It may look weird at first sight, but its pretty simple.
 
