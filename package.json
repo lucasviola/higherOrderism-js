@@ -1,0 +1,22 @@
+{
+  "name": "lambdajs",
+  "version": "1.0.0",
+  "description": "functional code in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasviola/higherOrderism-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasviola/higherOrderism-js/issues"
+  },
+  "homepage": "https://github.com/lucasviola/higherOrderism-js#readme",
+  "devDependencies": {
+    "z": "0.0.0"
+  }
+}
