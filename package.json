@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/lucasviola/higherOrderism-js#readme",
   "devDependencies": {
-    "z": "0.0.0"
+    "z": "0.0.4"
   }
 }
